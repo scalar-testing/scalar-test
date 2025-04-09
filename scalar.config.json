@@ -1,0 +1,16 @@
+{
+  "$schema": "https://cdn.scalar.com/schema/scalar-config.json",
+  "subdomain": "test-subdomain-wmmam.apidocumentation.com",
+  "references": [
+    {
+      "name": "API Reference",
+      "path": "spec.json"
+    }
+  ],
+  "guides": [
+    {
+      "folder": "guides",
+      "name": "Guides"
+    }
+  ]
+}
